@@ -12,7 +12,7 @@ Work without a working video link is incomplete.
 
 In the video: run the four combinations (20 / 3.8, 20 / 3.0, 16 / 3.8, 16 / 3.0), then the edge values 17 and 18, and 3.4 and 3.5. Say which branch will fire before you press Enter.
 
-**Your demo:** _add your link here_
+**Your demo:** 
 
 
 ## Scenario
@@ -29,7 +29,7 @@ Every program so far ran the same lines every time. This one reads two answers a
 Use `main.cpp`. Put your name in the file-top comment. Write your two thresholds in a comment above the chain.
 
 ## Environment
-VS 2022 · **GitHub Codespaces** · Replit · library machines
+VSCode · **g++** · home PC
 
 ## Procedure
 1. Declare `int age = 0;` and `double gpa = 0.0;`
